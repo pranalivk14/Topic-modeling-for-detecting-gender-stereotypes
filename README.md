@@ -6,4 +6,4 @@ Performing tokenization on COHA and COCA datasets using Python. Further implemen
 * Python
 
 ## Dataset
-The [Corpus of Contemporary American Englis](https://www.corpusdata.org/) (COCA) - the only large, genre-balanced corpus of American English
+The [Corpus of Contemporary American English](https://www.corpusdata.org/) (COCA) - the only large, genre-balanced corpus of American English
